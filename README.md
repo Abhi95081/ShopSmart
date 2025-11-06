@@ -40,6 +40,7 @@ A modern Android shopping companion app that revolutionizes your local shopping 
   - Retrofit for API calls
   - Hilt for dependency injection
   - Firebase Analytics
+  - Shared Pref Database
 
 - **Architecture**:
   - MVVM (Model-View-ViewModel)
